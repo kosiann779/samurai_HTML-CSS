@@ -1,0 +1,12 @@
+<html>
+<body>
+  <script>
+    let myString = 'ユーザー名';
+
+    myString = '坂元';
+
+    console.log('ようこそ、' + myString + 'さん');
+  </script>
+  ジャバスクリプトの練習
+</body>
+</html>
